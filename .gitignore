@@ -1,0 +1,7 @@
+.idea
+/datasets/
+/image_output/
+/raw_data/
+/saved_models/
+/weights/
+/venv/
