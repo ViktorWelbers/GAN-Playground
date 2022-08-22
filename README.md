@@ -11,7 +11,7 @@ a GAN was be able to generate images that look like this:
 
 ![img.png](img.png)
 
-While these are obviously not real cars, most people will most likely recognize most of them as such.
+While these are obviously not real cars, you would most likely agree that some of these images are showing cars or something similiar to cars.
 With additional training or adjustments to the model architecture, it should be performing better.
 You can adjust the model architecture and hyperparameters in the `models.py` and `configuration.py` files.
 
